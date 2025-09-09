@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-I'm currently a software engineer intern at Modern Intelligence. Some of my current interests are
-**distributed systems**, **parallel computing**, and **embedded systems**. 
+I'm currently a software engineer intern at [Modern Intelligence](https://modernintelligence.ai). 
+Some of my interests are **distributed systems**, **parallel computing**, and **embedded systems**. 
 
 Feel free to visit my website at [nguyenbrian.me](https://nguyenbrian.me) or connect with me on 
 [LinkedIn](https://linkedin.com/in/brnguyen03)!
