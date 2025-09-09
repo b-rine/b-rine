@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&
-  color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Brian!+%F0%9F%91%8B;Software
-  +Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Brian!+%F0%9F%91%8B;Software+Engineer;" alt="Typing SVG" />
 </div>
 
 ---
@@ -44,6 +42,5 @@ Feel free to visit my website at [nguyenbrian.me](https://nguyenbrian.me) or con
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-rine&
-  layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-rine&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
