@@ -36,11 +36,10 @@ Feel free to visit my website at [nguyenbrian.me](https://nguyenbrian.me) or con
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-rine&theme=tokyonight" 
-  alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-rine&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-rine&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-rine&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
