@@ -9,7 +9,7 @@
 I'm currently a software engineer at [Modern Intelligence](https://modernintelligence.ai). 
 Some of my interests are **distributed systems**, **parallel computing**, and **embedded systems**. 
 
-Feel free to visit my website at [nguyenbrian.me](https://nguyenbrian.dev) or connect with me on 
+Feel free to visit my website at [nguyenbrian.dev](https://nguyenbrian.dev) or connect with me on 
 [LinkedIn](https://linkedin.com/in/brnguyen03)!
 
 ---
