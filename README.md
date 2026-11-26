@@ -10,7 +10,7 @@ interested in perception, edge inference, gpu computing, and physical ai.
 
 ## stack
 
-mostly **C++**, alongside **Python**. i build real-time perception pipelines that deploy to **TensorRT**, **ONNX Runtime**, **HailoRT**, and **LiteRT** on **Jetson Orin**, **Hailo-8/10H**, **Qualcomm**, **NXP i.MX**, and **Raspberry Pi 5**.
+mostly **C++**, alongside **Python**. i build real-time perception pipelines for edge hardware like **Jetson Orin**, **Hailo-8/10H**, **Qualcomm**, **NXP i.MX**, and **Raspberry Pi 5**. models run on **TensorRT**, **ONNX Runtime**, **HailoRT**, and **LiteRT**.
 
 ## contact
 
