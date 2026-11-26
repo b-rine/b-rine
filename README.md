@@ -1,41 +1,17 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Brian!+%F0%9F%91%8B;Software+Engineer;" alt="Typing SVG" />
-</div>
+# brian nguyen
 
----
+software engineer · perception & edge ai
 
-## 🚀 About Me
+## about
 
-I'm currently a software engineer at [Modern Intelligence](https://modernintelligence.ai). 
-Some of my interests are **distributed systems**, **parallel computing**, and **embedded systems**. 
+software engineer at [modern intelligence](https://www.modernintelligence.ai/), building real-time perception and inference on edge hardware. cs at [ut austin](https://www.cs.utexas.edu/).
 
-Feel free to visit my website at [nguyenbrian.dev](https://nguyenbrian.dev) or connect with me on 
-[LinkedIn](https://linkedin.com/in/brnguyen03)!
+interested in perception, edge inference, gpu computing, and physical ai.
 
----
+## stack
 
-## 🛠️ Tech Stack
+mostly **C++**, alongside **Python** and **CUDA**, with some **Go**. day to day: **TensorRT**, **ONNX Runtime**, **HailoRT**, **GStreamer**, **Bazel**. deploying to **Jetson Orin**, **Hailo-8/10H**, and **Raspberry Pi 5**.
 
-<div align="center">
+## contact
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### Technologies & Tools
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b-rine&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[nguyenbrian.dev](https://nguyenbrian.dev) · [linkedin](https://www.linkedin.com/in/brnguyen03/) · [resume](https://nguyenbrian.dev/brianng_resume.pdf)
